@@ -1,7 +1,7 @@
 <html>
 <head>
 </head>
-<body
+<body>
 <h1>Hello world</h1>
 <br/>
 <a href="pacman-canvas">Pacman</a>
