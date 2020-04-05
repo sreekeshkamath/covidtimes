@@ -61,6 +61,7 @@
                             <li><a href="https://getbootstrap.com/docs/4.4/examples/album/#" class="text-white">Follow on Twitter</a></li>
                             <li><a href="https://getbootstrap.com/docs/4.4/examples/album/#" class="text-white">Like on Facebook</a></li>
                             <li><a href="https://getbootstrap.com/docs/4.4/examples/album/#" class="text-white">Email me</a></li>
+                            <li><a href="contact-us.php" class="text-white">Email me</a></li>
                         </ul>
                     </div>
                 </div>
